@@ -1,6 +1,6 @@
 {
     "name": "Hack Bot",
-    "description": "A bot CAN DO ANYTHING Deployable on heroku made by Anik_x_Pro",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by HereShiva ",
     "logo": "",
     "keywords": [
         "TELETHON",
@@ -10,7 +10,7 @@
         "Anik_x_Pro"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/Anik_x_Pro",
+    "success_url": "https://telegram.dog/HereShiva",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -38,7 +38,7 @@
           },
       
           "MUST_JOIN": {
-            "description": "FORCE SUBSCRIBE BOT EX - anik_x_suoporttt",
+            "description": "FORCE SUBSCRIBE BOT EX - mastiwithfriendsx",
             "value": ""
         }
     }
